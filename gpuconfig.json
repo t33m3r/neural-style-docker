@@ -17,6 +17,12 @@
     "chen-schmidt": 2048,
     "chen-schmidt-inverse": 900
   },
+    "GeForce GTX 1080 Ti": {
+    "gatys": 1300,
+    "gatys-multiresolution": 1300,
+    "chen-schmidt": 1500,
+    "chen-schmidt-inverse": 800
+  },
   "default": {
     "gatys": 512,
     "gatys-multiresolution": 750,
